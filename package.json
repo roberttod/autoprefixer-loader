@@ -1,0 +1,29 @@
+{
+  "name": "autoprefixer-loader",
+  "version": "0.0.0",
+  "description": "CSS autoprefixer-loader for webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/roberttod/autoprefixer-loader.git"
+  },
+  "author": "Robert Tod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roberttod/autoprefixer-loader/issues"
+  },
+  "homepage": "https://github.com/roberttod/autoprefixer-loader",
+  "dependencies": {
+    "autoprefixer": "^1.1.20140430"
+  },
+  "keywords": [
+    "webpack",
+    "css",
+    "autoprefixer",
+    "prefixer",
+    "loader"
+  ]
+}
